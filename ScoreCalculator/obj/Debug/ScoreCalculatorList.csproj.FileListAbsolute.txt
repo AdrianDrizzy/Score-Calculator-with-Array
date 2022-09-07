@@ -1,0 +1,12 @@
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculatorList.exe.config
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculatorList.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculatorList.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculatorList.csprojResolveAssemblyReference.cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculatorList.Form1.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculatorList.Properties.Resources.resources
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculatorList.csproj.GenerateResource.Cache
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculatorList.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculatorList.pdb
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\bin\Debug\ScoreCalculatorList.exe.config
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculatorList.exe
+M:\Current projects\C# 2012 Instructor's CD\CDROM files\C# 2012\Instructors\Extra exercise solutions\Chapter 08\ScoreCalculatorArray\ScoreCalculatorArray\obj\Debug\ScoreCalculatorList.pdb
